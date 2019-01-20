@@ -1,2 +1,0 @@
-my_variable=100*9
-print(my_variable)
